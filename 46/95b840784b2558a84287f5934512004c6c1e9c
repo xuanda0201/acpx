@@ -1,0 +1,33 @@
+test/runtime-permission-options.test.ts
+  s_f32777c3223f22::t_984717f9f331a6 1-90
+CHANGELOG.md
+  s_f32777c3223f22::t_1c643a93695466 9-12
+docs/permissions.md
+  s_f32777c3223f22::t_9f98f8d5c7262c 50-68
+src/permissions.ts
+  s_f32777c3223f22::t_d89aea7acd42f7 447,463-467
+src/types.ts
+  s_f32777c3223f22::t_bfa304611a0843 26
+test/client.test.ts
+  s_f32777c3223f22::t_bf48518f9f9cfe 38,853-866,868-875,877-879,881-884,886-887,889-890,892-902,904
+test/mock-agent.ts
+  s_f32777c3223f22::t_0a7480c050b3bd 1578-1581,1600-1608
+test/permissions.test.ts
+  s_f32777c3223f22::t_6acf7ddb05f701 334-361
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.24",
+  "base_commit_sha": "4695b840784b2558a84287f5934512004c6c1e9c",
+  "prompts": {},
+  "sessions": {
+    "s_f32777c3223f22": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a143e9-11bd-7810-accc-186cbcd2c6bf",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "jinxuanzheng01-debug <268005258+jinxuanzheng01-debug@users.noreply.github.com>"
+    }
+  }
+}
