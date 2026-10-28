@@ -1,0 +1,19 @@
+docs/permissions.md
+  s_b16c45cc61864b::t_95eca9364cacdd 109-113
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.24",
+  "base_commit_sha": "a420c2b343d28bbac53ba94b90aec575a909fe6b",
+  "prompts": {},
+  "sessions": {
+    "s_b16c45cc61864b": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a17cae-bc7c-7f00-a9d4-121a7ff1e8c2",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "ACPX Contributors <268005258+xuanda0201@users.noreply.github.com>"
+    }
+  }
+}
