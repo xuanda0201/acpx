@@ -1,0 +1,25 @@
+CHANGELOG.md
+  s_b16c45cc61864b::t_55db7f485175bb 13-14
+docs/runtime-process-lifecycle.md
+  s_b16c45cc61864b::t_322e465f992c7a 29-32,34-36
+src/runtime/engine/manager.ts
+  s_b16c45cc61864b::t_7c751b86660704 273-291,296,300-304,316-320,328-332,1127-1132
+test/runtime-session-setup-timeout.test.ts
+  s_b16c45cc61864b::t_d29948f3cf1c6e 1-136
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.24",
+  "base_commit_sha": "cb91f00a95561525abb52e1704372f8d55f3c667",
+  "prompts": {},
+  "sessions": {
+    "s_b16c45cc61864b": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a17cae-bc7c-7f00-a9d4-121a7ff1e8c2",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "ACPX Contributors <268005258+xuanda0201@users.noreply.github.com>"
+    }
+  }
+}
