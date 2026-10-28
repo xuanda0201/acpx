@@ -1,0 +1,23 @@
+src/runtime/engine/manager.ts
+  s_b16c45cc61864b::t_6018d0f25bed49 286
+test/fixtures/process-cleanup-agent.ts
+  s_b16c45cc61864b::t_eb0c31fb520cf1 61-63,94-99,102-104
+test/runtime-session-setup-process.test.ts
+  s_b16c45cc61864b::t_243b1803817b6f 1-251
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.24",
+  "base_commit_sha": "4f7ea136bb3211347a5669365e31d6a49620f9cd",
+  "prompts": {},
+  "sessions": {
+    "s_b16c45cc61864b": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a17cae-bc7c-7f00-a9d4-121a7ff1e8c2",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "ACPX Contributors <268005258+xuanda0201@users.noreply.github.com>"
+    }
+  }
+}
